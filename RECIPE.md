@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "vikunja"
-version = "0.1.0"
+version = "0.1.1"
 kind = "software"
 description = "Vikunja 自托管任务管理产品的重建配方；当前仍在提取。"
 entry = "BUILD_PROMPT.md"
